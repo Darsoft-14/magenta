@@ -1,0 +1,17 @@
+table th{
+	background-color: #337ab7 !important;
+	color: white;
+	font-size: 80%;
+}
+table>tbody>tr>td{
+	vertical-align: middle !important;
+	font-size: 80%;
+}
+
+
+/*para alinear los botones y cuadro de busqueda*/
+.btn-group, .btn-group-vertical {
+	position: absolute !important;
+}
+
+
